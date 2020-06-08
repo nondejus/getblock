@@ -1,6 +1,14 @@
 getblock
 ========
 
+0
+
+-------    x(4)
+
+5 3 F 0    台 platform; unit; term of address
+
+-------    hex
+
 5 1 4 3    元 first; dollar; origin; head
 8 A 0 0    言 words, speech; speak, say
 5 3 9 F    原 source, origin, beginning
